@@ -1,0 +1,129 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: vldb_sample.aux
+The style file: abbrv.bst
+Database file #1: Consistency.bib
+You're missing a field name---line 37 of file Consistency.bib
+ :  
+ :  %booktitle = {Proc. of the 8th USENIX Conference on Operating Systems Design and Implementation},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 55 of file Consistency.bib
+ :   pages = 243
+ :              --254
+I'm skipping whatever remains of this entry
+You're missing a field name---line 192 of file Consistency.bib
+ :  
+ :  %booktitle = {Proc. of the 2013 ACM SIGMOD International Conference on Management of Data},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 210 of file Consistency.bib
+ :  
+ :  %booktitle = {Proc. of the Twenty-Fourth ACM Symposium on Operating Systems Principles},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 365 of file Consistency.bib
+ :  
+ :  %booktitle = {Proc. of the Twelfth ACM SIGPLAN Workshop on Erlang},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 525 of file Consistency.bib
+ : 
+ : %booktitle = {2014 USENIX Annual Technical Conference (USENIX ATC 14)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 600 of file Consistency.bib
+ : 
+ : %   author = "Wikipedia",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 641 of file Consistency.bib
+ : 
+ : %booktitle = {11th USENIX Symposium on Operating Systems Design and Implementation (OSDI 14)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 660 of file Consistency.bib
+ :  
+ :  %booktitle = {Proc.~ACM Symposium on Operating Systems Principles (SOSP)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 719 of file Consistency.bib
+ :  pages = 558
+ :             --565
+I'm skipping whatever remains of this entry
+You're missing a field name---line 761 of file Consistency.bib
+ :  
+ :  %series = {SoCC '10},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 892 of file Consistency.bib
+ : 
+ : %year = {2013},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 900 of file Consistency.bib
+ : 
+ : % author = {Hall, Mark and Frank, Eibe and Holmes, Geoffrey and Pfahringer, Bernhard and Reutemann, Peter and Witten, Ian H.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 919 of file Consistency.bib
+ : 
+ : %author = "Minka, T. and Winn, J.M. and Guiver, J.P. and Webster, S. and Zaykov, Y. and Yangel, B. and Spengler, A. and  Bronskill, J.",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 997 of file Consistency.bib
+ : 
+ : % author = {Andrew, Galen and Gao, Jianfeng},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1339 of file Consistency.bib
+ :   
+ :   %booktitle = {Proceedings of the 36th {ACM} {SIGPLAN} Conference on Programming
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1370 of file Consistency.bib
+ :  
+ :  %booktitle = {Proceedings of the 8th ACM European Conference on Computer Systems},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1439 of file Consistency.bib
+ : 
+ : %     title = {{Consistify: A Correctness-preserving, SLA-Aware, Automated Consistency Tuning Framework}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1454 of file Consistency.bib
+ :   
+ :   %note = "[Online; accessed 20-January-2016]"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1538 of file Consistency.bib
+ :  
+ :  %booktitle = {Proceedings of the 1996 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1556 of file Consistency.bib
+ :  
+ :  %booktitle = {Proceedings of the 12th International Workshop on Network and Operating Systems Support for Digital Audio and Video},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1591 of file Consistency.bib
+ :  
+ :  %booktitle = {Proceedings of the 2Nd ACM Symposium on Cloud Computing},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1610 of file Consistency.bib
+ :      
+ :      %group = {csg},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "DBLP:conf/cloud/GolabRAKWG13"
+refers to entry "DBLP:conf/cloud/2014", which doesn't exist
+A bad cross reference---entry "conf/sigmod/Sivasubramanian12"
+refers to entry "conf/sigmod/2012", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/cloud/2014"
+Warning--I didn't find a database entry for "conf/sigmod/2012"
+Warning--empty year in Ardekani:2014:SGC:2685048.2685077
+Warning--empty year in Cooper:2010:BCS:1807128.1807152
+Warning--empty year in Patil:2011:YBP:2038916.2038925
+Warning--empty institution in OptCOnCCGRid2016
+Warning--empty year in OptCOnCCGRid2016
+Warning--empty year in Terry:2013:CSL:2517349.2522731
+(There were 25 error messages)

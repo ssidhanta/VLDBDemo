@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{Ardekani:2014:SGC:2685048.2685077}
+M.~S. Ardekani and D.~B. Terry.
+\newblock A self-configurable geo-replicated cloud storage system.
+\newblock In {\em {OSDI 14}}.
+
+\bibitem{Chodorow:2010:MDG:1941134}
+K.~Chodorow and M.~Dirolf.
+\newblock {\em MongoDB: The Definitive Guide}.
+\newblock O'Reilly Media, Inc., 1st edition, 2010.
+
+\bibitem{Cooper:2010:BCS:1807128.1807152}
+B.~F. Cooper, A.~Silberstein, E.~Tam, R.~Ramakrishnan, and R.~Sears.
+\newblock Benchmarking cloud serving systems with {YCSB}.
+\newblock In {\em SoCC '10}.
+
+\bibitem{DBLP:conf/cloud/GolabRAKWG13}
+W.~M. Golab, M.~R. Rahman, A.~AuYoung, K.~Keeton, J.~J. Wylie, and I.~Gupta.
+\newblock Client-centric benchmarking of eventual consistency for cloud storage
+  systems.
+\newblock In {\em ICDCS}, page~28, 2014.
+
+\bibitem{Lakshman:2010:CDS:1773912.1773922}
+A.~Lakshman and P.~Malik.
+\newblock Cassandra: A decentralized structured storage system.
+\newblock {\em SIGOPS Oper. Syst. Rev.}, 44(2):35--40, Apr. 2010.
+
+\bibitem{Patil:2011:YBP:2038916.2038925}
+S.~Patil, M.~Polte, K.~Ren, W.~Tantisiriroj, L.~Xiao, J.~L\'{o}pez, G.~Gibson,
+  A.~Fuchs, and B.~Rinaldi.
+\newblock Ycsb++: Benchmarking and performance debugging advanced features in
+  scalable table stores.
+\newblock In {\em SOCC '11}.
+
+\bibitem{OptCOnCCGRid2016}
+S.~Sidhanta, W.~Golab, S.~Mukhopadhyay, and S.~Basu.
+\newblock {OptCon: An Adaptable SLA-Aware Consistency Tuning Framework for
+  Quorum-based Stores}.
+\newblock Technical report.
+
+\bibitem{conf/sigmod/Sivasubramanian12}
+S.~Sivasubramanian.
+\newblock Amazon dynamodb: a seamlessly scalable non-relational database
+  service.
+\newblock In K.~S. Candan, Y.~C. 0001, R.~T. Snodgrass, L.~Gravano, and
+  A.~Fuxman, editors, {\em SIGMOD Conference}, pages 729--730. ACM, 2012.
+
+\bibitem{NetflixWorkload-Variation}
+T.~Sprangler.
+\newblock Netflix bandwidth usage climbs to nearly 37\% of internet traffic at
+  peak hours.
+\newblock
+  \url{http://variety.com/2015/digital/news/netflix-bandwidth-usage-internet-traffic-1201507187/},
+  2015.
+
+\bibitem{Terry:2013:CSL:2517349.2522731}
+D.~B. Terry, V.~Prabhakaran, R.~Kotla, M.~Balakrishnan, M.~K. Aguilera, and
+  H.~Abu-Libdeh.
+\newblock Consistency-based service level agreements for cloud storage.
+\newblock In {\em {SOSP '13}}.
+
+\bibitem{conf/wecwis/YuV00}
+H.~Yu and A.~Vahdat.
+\newblock Building replicated internet services using {TACT}: A toolkit for
+  tunable availability and consistency tradeoffs.
+\newblock In {\em WECWIS}, pages 75--84, 2000.
+
+\end{thebibliography}
