@@ -109,21 +109,14 @@ You're missing a field name---line 1591 of file Consistency.bib
  :  %booktitle = {Proceedings of the 2Nd ACM Symposium on Cloud Computing},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1610 of file Consistency.bib
- :      
- :      %group = {csg},
+You're missing a field name---line 1615 of file Consistency.bib
+ : 
+ : %  booktitle = {{IEEE/ACM} 16th International Symposium on Cluster, Cloud and Grid
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 A bad cross reference---entry "DBLP:conf/cloud/GolabRAKWG13"
 refers to entry "DBLP:conf/cloud/2014", which doesn't exist
-A bad cross reference---entry "conf/sigmod/Sivasubramanian12"
-refers to entry "conf/sigmod/2012", which doesn't exist
 Warning--I didn't find a database entry for "DBLP:conf/cloud/2014"
-Warning--I didn't find a database entry for "conf/sigmod/2012"
-Warning--empty year in Ardekani:2014:SGC:2685048.2685077
 Warning--empty year in Cooper:2010:BCS:1807128.1807152
-Warning--empty year in Patil:2011:YBP:2038916.2038925
-Warning--empty institution in OptCOnCCGRid2016
 Warning--empty year in OptCOnCCGRid2016
-Warning--empty year in Terry:2013:CSL:2517349.2522731
-(There were 25 error messages)
+(There were 24 error messages)
